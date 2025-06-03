@@ -120,8 +120,8 @@
 		"hateHello": "What do you want?",
 		"tradeRequest": "Accept this agreement or suffer the consequences.",
 
-        "outerColor": [233,55,150],
-        "innerColor": [147,151,153],
+        "outerColor": [255, 252, 3],
+        "innerColor": [83, 0, 28],
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Sacrificial Captives",
